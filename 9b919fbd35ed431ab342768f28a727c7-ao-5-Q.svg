@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="2068">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-1" height="72.72727" width="309.09091" y="1828.55048" x="1190.01343" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-2" height="90.90909" width="409.09092" y="1724.00503" x="1221.83162" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-3" height="109.09091" width="272.72728" y="1455.8232" x="1430.92253" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-4" height="109.09091" width="272.72728" y="1333.09593" x="1471.83162" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-5" height="95.45455" width="586.36365" y="1155.8232" x="1371.83162" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-6" height="81.81818" width="327.27273" y="219.45954" x="1344.55889" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-7" height="90.90909" width="290.9091" y="110.36863" x="871.83161" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-8" height="81.81818" width="286.36364" y="55.82318" x="490.01342" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-9" height="90.90909" width="336.36364" y="960.36865" x="8.19523" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-10" height="72.72727" width="495.45455" y="1292.18684" x="12.74069" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-11" height="84.375" width="342.61365" y="1702.94945" x="67.92971" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-12" height="81.81818" width="393.75001" y="1794.99491" x="75.60017" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="9b919fbd35ed431ab342768f28a727c7-ao-13" height="53.69318" width="253.12501" y="444.99481" x="-3.6612" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
